@@ -1,0 +1,98 @@
+timestamp,user,action,path2026-11-24 19:37:10,guest,GET Request,/
+2026-11-24 19:37:10,guest,GET Request,/favicon.ico
+2026-11-24 19:37:12,guest,GET Request,/
+2026-11-24 19:37:12,guest,GET Request,/favicon.ico
+2026-11-24 19:37:13,guest,GET Request,/
+2026-11-24 19:37:13,guest,GET Request,/favicon.ico
+2026-11-24 19:37:14,guest,GET Request,/
+2026-11-24 19:37:14,guest,GET Request,/favicon.ico
+2026-11-24 19:37:15,guest,GET Request,/
+2026-11-24 19:37:15,guest,GET Request,/favicon.ico
+2026-11-24 19:37:22,guest,GET Request,/
+2026-11-24 19:37:22,guest,GET Request,/favicon.ico
+2026-11-24 19:38:44,guest,GET Request,/
+2026-11-24 19:38:44,guest,GET Request,/favicon.ico
+2026-11-24 19:47:47,guest,GET Request,/
+2026-11-24 19:47:48,guest,GET Request,/
+2026-11-24 19:47:53,guest,GET Request,/favicon.ico
+2026-11-24 19:48:03,guest,GET Request,/login
+2026-11-24 19:48:11,guest,GET Request,/login
+2026-11-24 19:48:11,dfghjk,LOGIN_FAILED,/login
+2026-11-24 19:48:15,guest,GET Request,/register
+2026-11-24 19:49:02,guest,GET Request,/register
+2026-11-24 19:49:02,Vlad,REGISTER,/register
+2026-11-24 19:49:02,Vlad,GET Request,/
+2026-11-24 19:49:08,Vlad,GET Request,/profile
+2026-11-24 19:49:12,Vlad,GET Request,/
+2026-11-24 19:49:26,Vlad,GET Request,/logout
+2026-11-24 19:49:26,Vlad,LOGOUT,/logout
+2026-11-24 19:49:26,guest,GET Request,/
+2026-11-24 19:49:28,guest,GET Request,/login
+2026-11-24 19:49:35,guest,GET Request,/login
+2026-11-24 19:49:35,Vlad,LOGIN_FAILED,/login
+2026-11-24 19:49:45,guest,GET Request,/login
+2026-11-24 19:49:45,Vlad,LOGIN_FAILED,/login
+2026-11-24 19:50:09,guest,GET Request,/login
+2026-11-24 19:50:13,guest,GET Request,/register
+2026-11-24 19:50:21,guest,GET Request,/register
+2026-11-24 19:50:21,Vlad,REGISTER,/register
+2026-11-24 19:50:21,Vlad,GET Request,/
+2026-11-24 19:50:25,Vlad,GET Request,/logout
+2026-11-24 19:50:25,Vlad,LOGOUT,/logout
+2026-11-24 19:50:25,guest,GET Request,/
+2026-11-24 19:50:27,guest,GET Request,/register
+2026-11-24 19:50:31,guest,GET Request,/login
+2026-11-24 19:50:38,guest,GET Request,/login
+2026-11-24 19:50:38,Vlad,LOGIN_FAILED,/login
+2026-11-24 19:53:16,guest,GET Request,/
+2026-11-24 19:53:17,guest,GET Request,/
+2026-11-24 19:53:20,guest,GET Request,/login
+2026-11-24 19:53:30,guest,GET Request,/login
+2026-11-24 19:53:30,admin,LOGIN_FAILED,/login
+2026-11-24 19:53:45,guest,GET Request,/login
+2026-11-24 19:53:45,admin,LOGIN_FAILED,/login
+2026-11-24 19:54:50,guest,GET Request,/login
+2026-11-24 19:54:50,admin,LOGIN_FAILED,/login
+2026-11-24 20:01:40,guest,GET Request,/
+2026-11-24 20:01:41,guest,GET Request,/
+2026-11-24 20:01:43,guest,GET Request,/login
+2026-11-24 20:01:56,guest,GET Request,/login
+2026-11-24 20:01:56,admin,LOGIN_SUCCESS,/login
+2026-11-24 20:01:56,admin,GET Request,/
+2026-11-24 20:02:02,admin,GET Request,/edit
+2026-11-24 20:07:19,guest,GET Request,/edit
+2026-11-24 20:07:19,guest,GET Request,/404
+2026-11-24 20:07:24,guest,GET Request,/
+2026-11-24 20:07:27,guest,GET Request,/login
+2026-11-24 20:07:39,guest,GET Request,/login
+2026-11-24 20:07:39,admin,LOGIN_SUCCESS,/login
+2026-11-24 20:07:39,admin,GET Request,/
+2026-11-24 20:07:42,admin,GET Request,/edit
+2026-11-24 20:12:35,admin,GET Request,/edit
+2026-11-24 20:12:35,admin,ADD_FOOD: Суши ,/edit
+2026-11-24 20:12:35,admin,GET Request,/
+2026-11-24 20:12:38,admin,GET Request,/edit
+2026-11-24 20:14:47,guest,GET Request,/edit
+2026-11-24 20:14:47,guest,GET Request,/404
+2026-11-24 20:14:52,guest,GET Request,/
+2026-11-24 20:14:55,guest,GET Request,/login
+2026-11-24 20:15:04,guest,GET Request,/login
+2026-11-24 20:15:04,admin,LOGIN_FAILED,/login
+2026-11-24 20:15:18,guest,GET Request,/login
+2026-11-24 20:15:18,admin,LOGIN_SUCCESS,/login
+2026-11-24 20:15:18,admin,GET Request,/
+2026-11-24 20:15:21,admin,GET Request,/edit
+2026-11-24 20:15:31,admin,GET Request,/edit
+2026-11-24 20:15:31,admin,ADD_FOOD: Энергия ,/edit
+2026-11-24 20:15:31,admin,GET Request,/
+2026-11-24 20:15:48,admin,GET Request,/edit
+2026-11-24 20:16:48,admin,GET Request,/edit
+2026-11-24 20:16:48,admin,ADD_FOOD: Суши ,/edit
+2026-11-24 20:16:48,admin,GET Request,/
+2026-11-24 20:16:54,admin,GET Request,/edit
+2026-11-24 20:17:39,admin,GET Request,/edit
+2026-11-24 20:17:39,admin,ADD_FOOD: Нагетсы,/edit
+2026-11-24 20:17:39,admin,GET Request,/
+2026-11-24 20:18:45,admin,GET Request,/
+2026-11-24 20:18:48,admin,GET Request,/edit
+2026-11-24 20:18:50,admin,GET Request,/profile
